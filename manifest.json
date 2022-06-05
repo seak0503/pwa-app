@@ -1,6 +1,6 @@
 {
-  "start_url": "https://blog.seak.jp.net/pwa-app/",
-  "url": "https://blog.seak.jp.net/pwa-app/",
+  "start_url": "http://blog.seak.jp.net/pwa-app/",
+  "url": "http://blog.seak.jp.net/pwa-app/",
   "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
